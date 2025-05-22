@@ -105,7 +105,6 @@ section aside {
   box-shadow: var(--box-shadow) var(--color-shadow);
   margin: 1rem;
   padding: 1.25rem;
-  width: var(--width-card);
 }
 
 section aside:hover {
